@@ -1,9 +1,10 @@
 # Covid-19 Analysis Project
 
 
-**### Project Overview**
+### Project Overview
 
 This Project Provides An In-Depth Analysis Of COVID-19 Data From 190 Countries Across All Continents.Covering a Time Range From January 1, 2020, To April 30, 2021, It Aims To Offer Insights Into The Pandemic's Impact By Analyzing Key Metrics Related To COVID-19 Cases, Deaths, And Vaccinations.This Analysis Is Intended To Inform And Support Recommendations For Effective Public Health Policies.
+
 
 
 ### Data Sources
@@ -17,11 +18,13 @@ This Project Provides An In-Depth Analysis Of COVID-19 Data From 190 Countries A
 Each data source is organized by Date, Country, and Continent.
 
 
+
 ### Project Objective
  
  Analyzing COVID-19 Information Deaths, And Vaccinations To Extract Insights And Provide Recommendations For Public Health Policies.
 
 
+ 
 ### Steps And Used Technology
 
  1- I Write Some Queries Some Of Them Are Basic And Other Are More Advanced To Help Me Understand Relation Between Column And Extract Valuable Insights And Make Dataset More 
@@ -34,6 +37,7 @@ Each data source is organized by Date, Country, and Continent.
  4- Extract Some Insights Based On The Analysis Process And Making Recommendations.
 
 
+ 
  ### Notes
 
  **All Attached Files And PDF Show The Codes And Work Steps In Detailed Way.**
