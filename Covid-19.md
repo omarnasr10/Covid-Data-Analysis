@@ -1,9 +1,9 @@
 # Covid-19 Analysis Project
 
 
-### Project Overview
+### **Project Overview**
 
-This project provides an in-depth analysis of COVID-19 data from 190 countries across all continents. Covering a time range from January 1, 2020, to April 30, 2021, it aims to offer insights into the pandemic's impact by analyzing key metrics related to COVID-19 cases, deaths, and vaccinations. This analysis is intended to inform and support recommendations for effective public health policies.
+This Project Provides An In-Depth Analysis Of COVID-19 Data From 190 Countries Across All Continents.Covering a Time Range From January 1, 2020, To April 30, 2021, It Aims To Offer Insights Into The Pandemic's Impact By Analyzing Key Metrics Related To COVID-19 Cases, Deaths, And Vaccinations.This Analysis Is Intended To Inform And Support Recommendations For Effective Public Health Policies.
 
 
 ### Data Sources
