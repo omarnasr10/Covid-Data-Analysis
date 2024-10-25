@@ -1,8 +1,10 @@
 # Covid-Data-Analysis
 
-##Project Overview
+
+## Project Overview
+
  The Dataset Is about Covid-19.The Analysis Process Was Done On 190 Country In All Continent.And It's In Time Range between 1-1-2020 and 30-4-2021.
- The Data Sourece Contain:
+ The Data Sourece Contain
  First: Covid Deaths Contain Information About Total Deaths,Total Cases,
  New Deaths,New Cases And All Of This Per Million.
  Second: Covid Vaccinations Contain Information About Total And New
